@@ -26,41 +26,40 @@ Untuk menjalankan proyek ini, pastikan Python sudah terinstal pada sistem Anda. 
 
 Buka terminal atau *command prompt* Anda, lalu jalankan perintah berikut untuk mengunduh proyek ini dari GitHub:
 
-```bash
+`bash
 git clone [https://github.com/2206081MuhamadHamzah/Fundamental-Pemrosesan-Data.git](https://github.com/2206081MuhamadHamzah/Fundamental-Pemrosesan-Data.git)
 cd Fundamental-Pemrosesan-Data
-2. Instalasi Dependensi (Jika Ada)
+### 2. Instalasi Dependensi (Jika Ada)
 Jika proyek ini memiliki dependensi eksternal (pustaka Python lainnya), Anda dapat menginstalnya menggunakan pip:
 
-Bash
+`bash
 
 pip install -r requirements.txt
 Catatan: Pastikan Anda berada di dalam direktori proyek (Fundamental-Pemrosesan-Data) saat menjalankan perintah ini.
 
-3. Menjalankan Skrip Utama
+### 3. Menjalankan Skrip Utama
 Untuk menjalankan skrip utama proyek ini (misalnya, jika ada file main.py), gunakan perintah:
 
-Bash
+`bash
 
 python main.py
-4. Menjalankan Unit Test
+### 4. Menjalankan Unit Test
 Untuk menjalankan unit test yang ada dalam folder tests, gunakan perintah berikut dari direktori utama proyek:
 
-Bash
+`bash
 
 python -m unittest discover tests
-5. Menjalankan Test Coverage
+### 5. Menjalankan Test Coverage
 Jika Anda ingin menjalankan pengujian dengan coverage untuk melihat seberapa banyak kode yang teruji, jalankan perintah berikut:
 
-Bash
+`bash
 
 coverage run -m unittest discover tests
-6. Melihat Hasil Laporan Coverage
+### 6. Melihat Hasil Laporan Coverage
 Setelah menjalankan pengujian dengan coverage, Anda dapat melihat laporan hasilnya dengan perintah:
-
-Bash
+`bash
 
 coverage report -m
-Perintah ini akan menampilkan laporan coverage di terminal Anda, menunjukkan baris kode mana saja yang telah dieksekusi selama pengujian.
+Perintah ini akan menampilkan laporan coverage di terminal , menunjukkan baris kode mana saja yang telah dieksekusi selama pengujian.
 
-Semoga perbaikan ini bermanfaat! Jika ada hal lain yang ingin Anda ubah atau tambahkan, beri tahu saya.
+
