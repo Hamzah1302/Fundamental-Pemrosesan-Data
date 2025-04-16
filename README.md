@@ -18,12 +18,33 @@ Beberapa fitur utama yang ada dalam proyek ini antara lain:
 Untuk menjalankan proyek ini, pastikan Python sudah terinstal pada sistem Anda. Anda juga perlu menginstal beberapa dependensi yang diperlukan.
 
 ### 1. Clone Repository
-
-```bash
+bash
 git clone https://github.com/2206081MuhamadHamzah/Fundamental-Pemrosesan-Data.git
 cd Fundamental-Pemrosesan-Data
-```bash
+
+
 
 ### 2. Menjalankan Skrip
 Untuk menjalankan skrip utama proyek ini, gunakan perintah:
 
+
+
+
+
+
+
+```bash
+python main.py
+### 3. Menjalankan Unit Test pada Folder Tests
+Untuk menjalankan unit test yang ada dalam folder tests, gunakan perintah:
+```bash
+python -m unittest discover tests
+### 4. Menjalankan Test Coverage pada Folder Tests
+Jika Anda ingin menjalankan pengujian dengan coverage untuk melihat seberapa banyak kode yang teruji, jalankan perintah berikut:
+
+```bash
+coverage run -m unittest discover tests
+### 5. Melihat Hasil Report Coverage
+Untuk melihat laporan hasil coverage setelah menjalankan pengujian, gunakan perintah:
+coverage report -m
+```bash
