@@ -1,6 +1,4 @@
-Tentu, berikut adalah perbaikan untuk file README.md Anda. Saya telah menambahkan beberapa detail dan memperbaiki format agar lebih mudah dibaca dan dipahami.
 
-Markdown
 
 # Fundamental Pemrosesan Data
 
