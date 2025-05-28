@@ -25,7 +25,7 @@ Untuk menjalankan proyek ini, pastikan Python sudah terinstal pada sistem Anda. 
 Buka terminal atau *command prompt* Anda, lalu jalankan perintah berikut untuk mengunduh proyek ini dari GitHub:
 
 ``bash
-git clone [https://github.com/2206081MuhamadHamzah/Fundamental-Pemrosesan-Data.git](https://github.com/2206081MuhamadHamzah/Fundamental-Pemrosesan-Data.git)
+git clone [https://github.com/Hamzah1302/Fundamental-Pemrosesan-Data.git](https://github.com/Hamzah1302/Fundamental-Pemrosesan-Data.git)
 cd Fundamental-Pemrosesan-Data
 ### 2. Instalasi Dependensi (Jika Ada)
 Jika proyek ini memiliki dependensi eksternal (pustaka Python lainnya), Anda dapat menginstalnya menggunakan pip:
